@@ -1,0 +1,12 @@
+a=88
+b=56
+print('a<b',a<b)
+
+print('a>b',a>b)
+print('a>=b',a>=b)
+print('a<=b',a<=b)
+print('a==b',a==b)
+print('a!=b',a!=b)
+
+a=36
+print('a>b',a>b)
